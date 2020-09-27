@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">midterm3</string>
+    <string-array name="major_array">
+        <item>Select</item>
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Geographic Information Science</item>
+    </string-array>
+</resources>
